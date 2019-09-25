@@ -11,7 +11,4 @@ def climbingLeaderboard():
             n-=1
         print(n+1)
 
-
-
-
 result=climbingLeaderboard()
